@@ -1,6 +1,6 @@
-#COVID 19 TRACKER
+# COVID 19 TRACKER
 
-###CREATED BY ME 😊
+### CREATED BY ME 😊
 
 #### It is live at
 [COVID TRACKER](https://covid-19-d4248.web.app/)
