@@ -1,0 +1,29 @@
+.box{
+    flex:1;
+    margin-right: 16px;
+    
+}
+.box_cases{
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+.box_green{
+    color: greenyellow;
+}
+.selected{
+    border-top: 10px solid greenyellow;
+
+}
+.box__major{
+cursor: pointer;
+}
+.red_seleced{
+    border-color: red;
+ 
+}
+.textgreen{
+    color: lightgreen;
+}
+
