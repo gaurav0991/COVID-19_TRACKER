@@ -1,36 +1,39 @@
-*{
+* {
   margin: 0;
 }
-.app-header{
+.app-header {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
   justify-content: space-between;
 }
-.app_box{
+.app_box {
   justify-content: space-evenly;
   padding: 10px;
   display: flex;
 }
-body{
+body {
   background-color: #f5f6fa;
 }
-.app_main{
+.app_main {
   flex: 3;
-  margin-right:10px ;
+  margin-right: 10px;
 }
-.app{
+.app {
   padding-top: 40px;
   padding-left: 45px;
   padding-right: 45px;
   justify-content: space-around;
   display: flex;
 }
-@media (max-width: 990px){
-  .app{
+@media (max-width: 990px) {
+  .app {
     flex-direction: column;
   }
 }
-.app_sidebare{
+.app_sidebare {
   flex: 1;
+}
+.graphs {
+  display: flex;
 }
